@@ -1,0 +1,10 @@
+#
+Name: 弹舌
+Path: 68622318
+Song: 68622318.ogg
+Picture: 68622318.png
+Chart: 68622318.json
+Level: 4K Tech Lv.彈
+Composer: MC赵小六
+Charter: MC YMEA(反迷你)
+Illustrator: Convert by MVP

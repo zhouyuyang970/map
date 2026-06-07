@@ -1,0 +1,13 @@
+#
+Name: Gangnam Style
+Path: 2555337497172731
+Song: 2555337497172731.mp3
+Picture: 2555337497172731.png
+Chart: 2555337497172731.json
+Level: 舞 ☆☆
+Composer: PSY
+Charter: MC 阿唯 AKA DJ 春姐
+LastEditTime: 2026_2_25_14_36_37_
+Length: 141.217
+EditTime: 52697.053
+Group: Default
